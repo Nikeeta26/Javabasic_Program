@@ -63,19 +63,12 @@ public class ARRprint {
 	    		arr[i][j] = sc.nextInt();
 		    }
 	    }
-	    
-	    for(int i =0; i<x; i++) {
+	     for(int i =0; i<x; i++) {
 	    	for(int j =0; j<y; j++) { 
 	    		
 	    		 System.out.print(arr[i][j]+"\t");
 		    }
 	    	//System.out.println();
 	    }
-	
-	    
-	  
-	    
-	        
-	    
 	}
 }
