@@ -1,9 +1,7 @@
 package nikeeta;
-
 import java.util.Scanner;
 
 public class MaxNoCount {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated amethod stub
        Scanner sc = new Scanner(System.in);
@@ -27,5 +25,4 @@ public class MaxNoCount {
        System.out.println(count);
 
 	}
-
 }
